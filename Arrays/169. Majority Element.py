@@ -1,8 +1,7 @@
-# Boyer-Moore's Majority Vote Algorithm
-
+# Boyer-Moore Majority Vote Algorithm
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        current_max = -1
+        current_max = None
         count = 0
         for n in nums:
             if n == current_max:

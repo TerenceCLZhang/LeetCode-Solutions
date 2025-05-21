@@ -1,27 +1,20 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        n = len(nums)
-        lo = 0
-        hi = n - 1
-        sorted_squares = []
+        ans = deque()
+        l = 0
+        r = len(nums) - 1
 
-        while lo <= hi:
-            if abs(nums[lo]) < abs(nums[hi]):
-                sorted_squares.append(nums[hi] ** 2)
-                hi -= 1
+        while l <= r:
+            low_squared = nums[l] ** 2
+            high_squared = nums[r] ** 2
+            if low_squared > high_squared:
+                ans.appendleft(low_squared)
+                l += 1
             else:
-                sorted_squares.append(nums[lo] ** 2)
-                lo += 1
+                ans.appendleft(high_squared)
+                r -= 1
 
-        # Reversing the array
-        lo = 0
-        hi = n - 1
-        while lo < hi:
-            sorted_squares[lo], sorted_squares[hi] = sorted_squares[hi], sorted_squares[lo]
-            lo += 1
-            hi -= 1
-
-        return sorted_squares
+        return list(ans)
 
 # Time: O(n)
 # Space: O(n)
