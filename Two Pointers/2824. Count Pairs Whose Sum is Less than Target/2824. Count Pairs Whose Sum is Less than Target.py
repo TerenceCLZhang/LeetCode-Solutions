@@ -7,7 +7,7 @@ class Solution:
 
         while l < r:
             if nums[l] + nums[r] < target:
-                pairs += l - r
+                pairs += r - l
                 l += 1
             else:
                 r -= 1

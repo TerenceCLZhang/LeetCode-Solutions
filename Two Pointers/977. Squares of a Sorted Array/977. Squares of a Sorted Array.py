@@ -1,6 +1,6 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        ans = deque()
+        ans = []
         l = 0
         r = len(nums) - 1
 
@@ -8,13 +8,14 @@ class Solution:
             low_squared = nums[l] ** 2
             high_squared = nums[r] ** 2
             if low_squared > high_squared:
-                ans.appendleft(low_squared)
+                ans.append(low_squared)
                 l += 1
             else:
-                ans.appendleft(high_squared)
+                ans.append(high_squared)
                 r -= 1
 
-        return list(ans)
+        ans.reverse()
+        return ans
 
 # Time: O(n)
 # Space: O(n)
