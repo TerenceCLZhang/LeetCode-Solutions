@@ -9,5 +9,5 @@ class Solution:
             steps += 1
         return steps
 
-# Time: O(n)
+# Time: O(log n)
 # Space: O(1)
