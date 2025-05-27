@@ -8,10 +8,10 @@ class Solution:
             while s[r] in sett:
                 sett.remove(s[l])
                 l += 1
-            
-            longest = max(longest, (r - l) + 1)
+
             sett.add(s[r])
-            
+            longest = max(longest, len(sett))
+        
         return longest
             
 # Time: O(n)
