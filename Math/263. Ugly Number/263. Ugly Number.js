@@ -4,7 +4,7 @@
  */
 var isUgly = function(n) {
     if (n <= 0) return false
-    for (let i of [2, 3, 5]) {
+    for (const i of [2, 3, 5]) {
         while (n % i == 0) {
             n = Math.floor(n / i)
         }

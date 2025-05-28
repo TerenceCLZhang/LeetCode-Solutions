@@ -6,7 +6,7 @@ var maxProfit = function (prices) {
   let min_price = Infinity;
   let max_profit = 0;
 
-  for (let p of prices) {
+  for (const p of prices) {
     min_price = Math.min(min_price, p);
     max_profit = Math.max(max_profit, p - min_price);
   }

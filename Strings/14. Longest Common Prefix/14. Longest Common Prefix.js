@@ -4,7 +4,7 @@
  */
 var longestCommonPrefix = function (strs) {
   let min_length = Infinity;
-  for (let s of strs) min_length = Math.min(min_length, s.length);
+  for (const s of strs) min_length = Math.min(min_length, s.length);
 
   for (let i = 0; i < min_length; i++) {
     const current_char = strs[0][i];

@@ -5,7 +5,7 @@
 var evalRPN = function (tokens) {
   let stack = [];
 
-  for (let t of tokens) {
+  for (const t of tokens) {
     if (!isNaN(t)) {
       stack.push(Number(t));
     } else {

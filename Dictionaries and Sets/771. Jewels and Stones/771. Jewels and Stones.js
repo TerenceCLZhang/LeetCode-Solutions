@@ -6,7 +6,7 @@
 var numJewelsInStones = function (jewels, stones) {
   const j = new Set(jewels);
   let c = 0;
-  for (let s of stones) {
+  for (const s of stones) {
     if (j.has(s)) {
       c++;
     }

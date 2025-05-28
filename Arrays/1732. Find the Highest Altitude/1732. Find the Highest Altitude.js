@@ -6,7 +6,7 @@ var largestAltitude = function (gain) {
   let curr_a = 0;
   let max_a = 0;
 
-  for (let g of gain) {
+  for (const g of gain) {
     curr_a += g;
     max_a = Math.max(max_a, curr_a);
   }

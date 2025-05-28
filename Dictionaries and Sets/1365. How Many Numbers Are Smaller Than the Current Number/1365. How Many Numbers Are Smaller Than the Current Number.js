@@ -10,7 +10,7 @@ var smallerNumbersThanCurrent = function (nums) {
   }
 
   let ans = [];
-  for (let n of nums) ans.push(numsLess[n]);
+  for (const n of nums) ans.push(numsLess[n]);
   return ans;
 };
 

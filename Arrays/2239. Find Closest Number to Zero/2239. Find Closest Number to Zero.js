@@ -4,7 +4,7 @@
  */
 var findClosestNumber = function (nums) {
   let c = nums[0];
-  for (let n of nums) {
+  for (const n of nums) {
     if (Math.abs(n) < Math.abs(c) || (Math.abs(n) == Math.abs(c) && n > c)) {
       c = n;
     }

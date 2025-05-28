@@ -7,7 +7,7 @@ var thirdMax = function (nums) {
   let second_max = -Infinity;
   let third_max = -Infinity;
 
-  for (let n of nums) {
+  for (const n of nums) {
     if ([first_max, second_max, third_max].includes(n)) continue;
 
     if (n > first_max) {

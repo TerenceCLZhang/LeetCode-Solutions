@@ -4,7 +4,7 @@
  */
 var maxNumberOfBalloons = function (text) {
   const balloon = { b: 0, a: 0, l: 0, o: 0, n: 0 };
-  for (let c of text) {
+  for (const c of text) {
     if (c in balloon) balloon[c]++;
   }
   return Math.min(

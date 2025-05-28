@@ -6,8 +6,8 @@
 var findTheDifference = function (s, t) {
   let ans = 0;
 
-  for (let c of s) ans ^= c.charCodeAt(0);
-  for (let c of t) ans ^= c.charCodeAt(0);
+  for (const c of s) ans ^= c.charCodeAt(0);
+  for (const c of t) ans ^= c.charCodeAt(0);
 
   return String.fromCharCode(ans);
 };

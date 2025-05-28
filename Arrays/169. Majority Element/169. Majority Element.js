@@ -8,7 +8,7 @@ var majorityElement = function (nums) {
   let currentMax = -Infinity;
   let count = 0;
 
-  for (let n of nums) {
+  for (const n of nums) {
     if (n === currentMax) {
       count++;
     } else if (count === 0) {

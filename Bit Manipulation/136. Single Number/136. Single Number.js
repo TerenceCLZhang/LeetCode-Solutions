@@ -4,7 +4,7 @@
  */
 var singleNumber = function (nums) {
   let ans = 0;
-  for (let n of nums) ans ^= n;
+  for (const n of nums) ans ^= n;
   return ans;
 };
 
