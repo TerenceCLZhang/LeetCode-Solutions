@@ -1,20 +1,6 @@
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
         ans = []
-        seen = set(nums)
-
-        for num in range(1, len(nums) + 1):
-            if num not in seen:
-                ans.append(num)
-
-        return ans
-
-# Time: O(n)
-# Space: O(n)
-
-class Solution:
-    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
-        ans = []
         
         for num in nums:
             i = abs(num) - 1
