@@ -6,9 +6,6 @@
 class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         def getGCD(a, b):
-            # A function to calculate the greatest common factor of two numbers using the Euclidean algorithm
-            # Time: O(log max(a, b)) = O(log M)
-            # Space: O(1)
             while b:
                 a, b = b, a % b
             return a
@@ -20,5 +17,6 @@ class Solution:
             curr = curr.next.next
         return head
 
-# Time: O(n log M)
+# Time: O(n log m)
 # Space: O(1)
+# Where m = min(a, b)

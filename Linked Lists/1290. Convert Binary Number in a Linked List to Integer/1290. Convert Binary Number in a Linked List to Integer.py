@@ -8,7 +8,7 @@ class Solution:
         decimal = 0
         curr = head
         while curr:
-            decimal = (decimal << 1) | curr.val
+            decimal = (decimal << 1) + curr.val
             curr = curr.next
         return decimal
 

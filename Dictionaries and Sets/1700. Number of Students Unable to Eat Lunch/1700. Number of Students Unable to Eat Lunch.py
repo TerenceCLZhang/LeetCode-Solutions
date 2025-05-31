@@ -13,4 +13,4 @@ class Solution:
         return ans
             
 # Time: O(n)
-# Space: O(n)
+# Space: O(1)

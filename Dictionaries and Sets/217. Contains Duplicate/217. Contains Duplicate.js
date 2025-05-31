@@ -3,14 +3,8 @@
  * @return {boolean}
  */
 var containsDuplicate = function (nums) {
-  let seen = new Set();
-  for (const n of nums) {
-    if (seen.has(n)) {
-      return true;
-    }
-    seen.add(n);
-  }
-  return false;
+  const sett = new Set(nums);
+  return nums.length !== sett.size;
 };
 
 // Time: O(n)
