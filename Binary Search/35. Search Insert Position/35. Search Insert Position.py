@@ -13,9 +13,7 @@ class Solution:
             else:
                 r = m - 1
         
-        if nums[m] < target:
-            return m + 1
-        return m
+        return l
 
 # Time: O(log n)
 # Space: O(1)
