@@ -18,4 +18,4 @@ class Solution:
         return dfs(root)[0]
         
 # Time: O(n)
-# Space: O(h)
+# Space: O(n)

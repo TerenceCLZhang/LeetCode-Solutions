@@ -20,4 +20,4 @@ class Solution:
         return search(root)
 
 # Time: O(n)
-# Space: O(h)
+# Space: O(n)

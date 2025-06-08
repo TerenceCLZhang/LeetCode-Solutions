@@ -26,4 +26,4 @@ var rangeSumBST = function (root, low, high) {
 };
 
 // Time: O(n)
-// Space: O(h)
+// Space: O(n)

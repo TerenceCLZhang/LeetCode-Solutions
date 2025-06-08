@@ -26,4 +26,4 @@ var isBalanced = function (root) {
 };
 
 // Time: O(n)
-// Space: O(h)
+// Space: O(n)

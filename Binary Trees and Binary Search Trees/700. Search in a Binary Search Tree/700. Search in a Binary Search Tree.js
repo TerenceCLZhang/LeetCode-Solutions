@@ -24,4 +24,4 @@ var searchBST = function (root, val) {
 };
 
 // Time: O(n)
-// Space: O(h)
+// Space: O(n)

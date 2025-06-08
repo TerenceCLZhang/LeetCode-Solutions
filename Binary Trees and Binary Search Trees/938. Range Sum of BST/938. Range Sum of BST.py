@@ -17,4 +17,4 @@ class Solution:
         return root.val + self.rangeSumBST(root.left, low, high) + self.rangeSumBST(root.right, low, high)
 
 # Time: O(n)
-# Space: O(h)
+# Space: O(n)
