@@ -18,10 +18,8 @@ var topKFrequent = function (nums, k) {
   let ans = [];
   for (let i = nums.length; i > 0; i--) {
     if (arr[i] !== 0) ans.push(...arr[i]);
-    if (ans.length >= k) break;
+    if (ans.length >= k) return ans;
   }
-
-  return ans;
 };
 
 // Time: O(n)
