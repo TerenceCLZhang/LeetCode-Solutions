@@ -2,6 +2,13 @@
 
 This repository contains my leetcode solutions to select questions.
 
+## Contents
+
+- [Algomap.io](#algomapio)
+  - [Arrays & Strings](#arrays--strings)
+  - [HashMaps & Sets](#hashmaps--sets)
+  - [2 Pointers](#2-pointers)
+
 ## Algomap.io
 
 https://algomap.io/list/
@@ -30,12 +37,21 @@ https://algomap.io/list/
 
 ### Hashmaps & Sets
 
-| Problem                                                                                                   | Solutions                                          | Time         | Space    |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------ | -------- |
-| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                    | [Link](/771.%20Jewels%20and%20Stones/)             | $$O(n)$$     | $$O(n)$$ |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                  | [Link](/217.%20Contains%20Duplicate/)              | $$O(n)$$     | $$O(n)$$ |
-| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                | [Link](/383.%20Ransom%20Note/)                     | $$O(n + m)$$ | $$O(m)$$ |
-| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                            | [Link](/242.%20Valid%20Anagram/)                   | $$O(n)$$     | $$O(1)$$ |
-| [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [Link](/1189.%20Maximum%20Number%20of%20Balloons/) | $$O(n)$$     | $$O(1)$$ |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                          | [Link](/1.%20Two%20Sum/)                           | $$O(n)$$     | $$O(n)$$ |
-| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                               | [Link](/36.%20Valid%20Sudoku/)                     | $$O(1)$$     | $$O(1)$$ |
+| Problem                                                                                                   | Solutions                                          | Time             | Space            |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------- | ---------------- |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                    | [Link](/771.%20Jewels%20and%20Stones/)             | $$O(n)$$         | $$O(n)$$         |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                  | [Link](/217.%20Contains%20Duplicate/)              | $$O(n)$$         | $$O(n)$$         |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                | [Link](/383.%20Ransom%20Note/)                     | $$O(n + m)$$     | $$O(m)$$         |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                            | [Link](/242.%20Valid%20Anagram/)                   | $$O(n)$$         | $$O(1)$$         |
+| [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [Link](/1189.%20Maximum%20Number%20of%20Balloons/) | $$O(n)$$         | $$O(1)$$         |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                          | [Link](/1.%20Two%20Sum/)                           | $$O(n)$$         | $$O(n)$$         |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                               | [Link](/36.%20Valid%20Sudoku/)                     | $$O(1)$$         | $$O(1)$$         |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                           | [Link](/49.%20Group%20Anagrams/)                   | $$O(n \cdot m)$$ | $$O(n \cdot m)$$ |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                      | [Link](/169.%20Majority%20Element/)                | $$O(n)$$         | $$O(1)$$         |
+
+### 2 Pointers
+
+| Problem                                                                                                | Solutions                                          | Time     | Space    |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | -------- | -------- |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Link](/977.%20Squares%20of%20a%20Sorted%20Array/) | $$O(n)$$ | $$O(n)$$ |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)                       | [Link](/344.%20Reverse%20String/)                  | $$O(n)$$ | $$O(1)$$ |

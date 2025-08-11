@@ -1,9 +1,10 @@
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
 
   public int romanToInt(String s) {
-    HashMap<Character, Integer> symbolMap = new HashMap<>();
+    Map<Character, Integer> symbolMap = new HashMap<>();
     symbolMap.put('I', 1);
     symbolMap.put('V', 5);
     symbolMap.put('X', 10);

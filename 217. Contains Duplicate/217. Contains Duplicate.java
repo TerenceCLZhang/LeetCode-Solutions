@@ -1,9 +1,10 @@
 import java.util.HashSet;
+import java.util.Set;
 
 class Solution {
 
   public boolean containsDuplicate(int[] nums) {
-    HashSet<Integer> seen = new HashSet<>();
+    Set<Integer> seen = new HashSet<>();
 
     for (int n : nums) {
       if (seen.contains(n)) {

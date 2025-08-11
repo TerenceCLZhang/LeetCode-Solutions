@@ -1,9 +1,10 @@
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
 
   public int maxNumberOfBalloons(String text) {
-    HashMap<Character, Integer> letters = new HashMap<>();
+    Map<Character, Integer> letters = new HashMap<>();
     letters.put('b', 0);
     letters.put('a', 0);
     letters.put('l', 0);

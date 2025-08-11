@@ -1,9 +1,10 @@
 import java.util.HashMap;
+import java.util.Map;
 
 class Solution {
 
   public boolean canConstruct(String ransomNote, String magazine) {
-    HashMap<Character, Integer> letters = new HashMap<>();
+    Map<Character, Integer> letters = new HashMap<>();
 
     for (char c : magazine.toCharArray()) {
       letters.put(c, (letters.getOrDefault(c, 0)) + 1);
