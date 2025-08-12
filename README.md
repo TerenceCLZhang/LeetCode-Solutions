@@ -36,20 +36,22 @@ https://algomap.io/list/
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                               | [Link](/56.%20Merge%20Intervals/)                                 | $$O(n \cdot \log n)$$ | $$O(n)$$ |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                   | [Link](/54.%20Spiral%20Matrix/)                                   | $$O(m \cdot n)$$      | $$O(1)$$ |
 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                            | [Link](/6.%20Zigzag%20Conversion/)                                | $$O(n)$$              | $$O(n)$$ |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                                     | [Link](/48.%20Rotate%20Image/)                                    | $$O(n^2)$$            | $$O(1)$$ |
 
 ### Hashmaps & Sets
 
-| Problem                                                                                                   | Solutions                                          | Time             | Space            |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------- | ---------------- |
-| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                    | [Link](/771.%20Jewels%20and%20Stones/)             | $$O(n)$$         | $$O(n)$$         |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                  | [Link](/217.%20Contains%20Duplicate/)              | $$O(n)$$         | $$O(n)$$         |
-| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                | [Link](/383.%20Ransom%20Note/)                     | $$O(n + m)$$     | $$O(m)$$         |
-| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                            | [Link](/242.%20Valid%20Anagram/)                   | $$O(n)$$         | $$O(1)$$         |
-| [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [Link](/1189.%20Maximum%20Number%20of%20Balloons/) | $$O(n)$$         | $$O(1)$$         |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                          | [Link](/1.%20Two%20Sum/)                           | $$O(n)$$         | $$O(n)$$         |
-| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                               | [Link](/36.%20Valid%20Sudoku/)                     | $$O(1)$$         | $$O(1)$$         |
-| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                           | [Link](/49.%20Group%20Anagrams/)                   | $$O(n \cdot m)$$ | $$O(n \cdot m)$$ |
-| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                      | [Link](/169.%20Majority%20Element/)                | $$O(n)$$         | $$O(1)$$         |
+| Problem                                                                                                      | Solutions                                          | Time             | Space            |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------- | ---------------- |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                       | [Link](/771.%20Jewels%20and%20Stones/)             | $$O(n)$$         | $$O(n)$$         |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                     | [Link](/217.%20Contains%20Duplicate/)              | $$O(n)$$         | $$O(n)$$         |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                   | [Link](/383.%20Ransom%20Note/)                     | $$O(n + m)$$     | $$O(m)$$         |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                               | [Link](/242.%20Valid%20Anagram/)                   | $$O(n)$$         | $$O(1)$$         |
+| [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)    | [Link](/1189.%20Maximum%20Number%20of%20Balloons/) | $$O(n)$$         | $$O(1)$$         |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                             | [Link](/1.%20Two%20Sum/)                           | $$O(n)$$         | $$O(n)$$         |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                  | [Link](/36.%20Valid%20Sudoku/)                     | $$O(1)$$         | $$O(1)$$         |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                              | [Link](/49.%20Group%20Anagrams/)                   | $$O(n \cdot m)$$ | $$O(n \cdot m)$$ |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                         | [Link](/169.%20Majority%20Element/)                | $$O(n)$$         | $$O(1)$$         |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Link](/128.%20Longest%20Consecutive%20Sequence/)  | $$O(n)$$         | $$O(n)$$         |
 
 ### 2 Pointers
 
