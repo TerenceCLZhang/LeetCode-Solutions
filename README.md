@@ -34,6 +34,8 @@ https://algomap.io/list/
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                    | [Link](/238.%20Product%20of%20Array%20Except%20Self/)             | $$O(n)$$              | $$O(1)$$ |
 | [274. H-Index](https://leetcode.com/problems/h-index/description/)                                                              | [Link](/274.%20H-Index/)                                          | $$O(n)$$              | $$O(n)$$ |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                               | [Link](/56.%20Merge%20Intervals/)                                 | $$O(n \cdot \log n)$$ | $$O(n)$$ |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                   | [Link](/54.%20Spiral%20Matrix/)                                   | $$O(m \cdot n)$$      | $$O(1)$$ |
+| [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                            | [Link](/6.%20Zigzag%20Conversion/)                                | $$O(n)$$              | $$O(n)$$ |
 
 ### Hashmaps & Sets
 
@@ -51,7 +53,9 @@ https://algomap.io/list/
 
 ### 2 Pointers
 
-| Problem                                                                                                | Solutions                                          | Time     | Space    |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | -------- | -------- |
-| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | [Link](/977.%20Squares%20of%20a%20Sorted%20Array/) | $$O(n)$$ | $$O(n)$$ |
-| [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)                       | [Link](/344.%20Reverse%20String/)                  | $$O(n)$$ | $$O(1)$$ |
+| Problem                                                                                                                | Solutions                                                         | Time     | Space    |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------- | -------- |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)                 | [Link](/977.%20Squares%20of%20a%20Sorted%20Array/)                | $$O(n)$$ | $$O(n)$$ |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)                                       | [Link](/344.%20Reverse%20String/)                                 | $$O(n)$$ | $$O(1)$$ |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Link](/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | $$O(n)$$ | $$O(1)$$ |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                   | [Link](/125.%20Valid%20Palindrome/)                               | $$O(n)$$ | $$O(1)$$ |
