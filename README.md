@@ -66,6 +66,9 @@ https://algomap.io/list/
 
 ### Stacks
 
-| Problem                                                                        | Solutions                        | Time     | Space    |
-| ------------------------------------------------------------------------------ | -------------------------------- | -------- | -------- |
-| [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Link](/682.%20Baseball%20Game/) | $$O(n)$$ | $$O(n)$$ |
+| Problem                                                                                                              | Solutions                                               | Time     | Space    |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | -------- |
+| [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)                                       | [Link](/682.%20Baseball%20Game/)                        | $$O(n)$$ | $$O(n)$$ |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                | [Link](/20.%20Valid%20Parentheses/)                     | $$O(n)$$ | $$O(n)$$ |
+| [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Link](/150.%20Evaluate%20Reverse%20Polish%20Notation/) | $$O(n)$$ | $$O(n)$$ |
+| [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                             | [Link](/739.%20Daily%20Temperatures/)                   | $$O(n)$$ | $$O(n)$$ |
