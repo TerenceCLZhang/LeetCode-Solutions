@@ -12,7 +12,7 @@ class Solution {
         int j = stack.pop();
         ans[j] = i - j;
       }
-      stack.add(i);
+      stack.push(i);
     }
 
     return ans;

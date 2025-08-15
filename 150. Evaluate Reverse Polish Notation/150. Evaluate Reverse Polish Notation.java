@@ -12,22 +12,22 @@ class Solution {
 
         switch (t) {
           case "+":
-            stack.add(val1 + val2);
+            stack.push(val1 + val2);
             break;
           case "-":
-            stack.add(val1 - val2);
+            stack.push(val1 - val2);
             break;
           case "*":
-            stack.add(val1 * val2);
+            stack.push(val1 * val2);
             break;
           case "/":
-            stack.add(val1 / val2);
+            stack.push(val1 / val2);
             break;
           default:
             break;
         }
       } else {
-        stack.add(Integer.parseInt(t));
+        stack.push(Integer.parseInt(t));
       }
     }
 

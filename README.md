@@ -8,6 +8,19 @@ This repository contains my leetcode solutions to select questions.
   - [Arrays & Strings](#arrays--strings)
   - [HashMaps & Sets](#hashmaps--sets)
   - [2 Pointers](#2-pointers)
+  - [Stacks](#stacks)
+  - [Linked Lists](#linked-lists)
+  - [Binary Search](#binary-search)
+  - [Sliding Window](#sliding-window)
+  - [Trees](#trees)
+  - [Heaps](#heaps)
+  - [Recursive Backtracking](#recursive-backtracking)
+  - [Graphs](#graphs)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Bit Manipulation](#bit-manipulation)
+    <!-- - [NeetCode 150](#neetcode-150) -->
+    <!-- - [LeetCode 75](#leetcode-75) -->
+    <!-- - [LeetCode Top Interview 150](#leetcode-top-interview-150) -->
 
 ## Algomap.io
 
@@ -63,6 +76,9 @@ https://algomap.io/list/
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                   | [Link](/125.%20Valid%20Palindrome/)                               | $$O(n)$$   | $$O(1)$$ |
 | [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                            | [Link](/15.%203Sum/)                                              | $$O(n^2)$$ | $$O(1)$$ |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                  | [Link](/11.%20Container%20With%20Most%20Water/)                   | $$O(n)$$   | $$O(1)$$ |
+| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)                                            | [Link](/16.%203Sum%20Closest/)                                    | $$O(n^2)$$ | $$O(1)$$ |
+| [18. 4Sum](https://leetcode.com/problems/4sum/description/)                                                            | [Link](/18.%204Sum/)                                              | $$O(n^3)$$ | $$O(1)$$ |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                              | [Link](/42.%20Trapping%20Rain%20Water/)                           | $$O(n)$$   | $$O(1)$$ |
 
 ### Stacks
 
@@ -72,3 +88,28 @@ https://algomap.io/list/
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                | [Link](/20.%20Valid%20Parentheses/)                     | $$O(n)$$ | $$O(n)$$ |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Link](/150.%20Evaluate%20Reverse%20Polish%20Notation/) | $$O(n)$$ | $$O(n)$$ |
 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                             | [Link](/739.%20Daily%20Temperatures/)                   | $$O(n)$$ | $$O(n)$$ |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/description/)                                               | [Link](/155.%20Min%20Stack/)                            | $$O(1)$$ | $$O(n)$$ |
+
+### Linked Lists
+
+### Binary Search
+
+### Sliding Window
+
+### Trees
+
+### Heaps
+
+### Recursive Backtracking
+
+### Graphs
+
+### Dynamic Programming
+
+### Bit Manipulation
+
+<!-- ## NeetCode 150
+
+## LeetCode 75
+
+## LeetCode Top Interview 150 -->

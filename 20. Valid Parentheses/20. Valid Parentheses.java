@@ -23,7 +23,7 @@ class Solution {
           return false;
         }
       } else {
-        stack.add(c);
+        stack.push(c);
       }
     }
 
