@@ -78,7 +78,6 @@ https://algomap.io/list/
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                  | [Link](/11.%20Container%20With%20Most%20Water/)                   | $$O(n)$$   | $$O(1)$$ |
 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)                                            | [Link](/16.%203Sum%20Closest/)                                    | $$O(n^2)$$ | $$O(1)$$ |
 | [18. 4Sum](https://leetcode.com/problems/4sum/description/)                                                            | [Link](/18.%204Sum/)                                              | $$O(n^3)$$ | $$O(1)$$ |
-| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                              | [Link](/42.%20Trapping%20Rain%20Water/)                           | $$O(n)$$   | $$O(1)$$ |
 
 ### Stacks
 
@@ -91,6 +90,15 @@ https://algomap.io/list/
 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/)                                               | [Link](/155.%20Min%20Stack/)                            | $$O(1)$$ | $$O(n)$$ |
 
 ### Linked Lists
+
+| Problem                                                                                                                                           | Solutions                                                                    | Time         | Space    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------ | -------- |
+| [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)                           | [Link](/83.%20Remove%20Duplicates%20from%20Sorted%20List/)                   | $$O(n)$$     | $$O(1)$$ |
+| [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/) | [Link](/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/) | $$O(n)$$     | $$O(1)$$ |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                        | [Link](/206.%20Reverse%20Linked%20List/)                                     | $$O(n)$$     | $$O(1)$$ |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                   | [Link](/21.%20Merge%20Two%20Sorted%20Lists/)                                 | $$O(n + m)$$ | $$O(1)$$ |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                            | [Link](/141.%20Linked%20List%20Cycle/)                                       | $$O(n)$$     | $$O(1)$$ |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)                                            | [Link](/876.%20Middle%20of%20the%20Linked%20List/)                           | $$O(n)$$     | $$O(1)$$ |
 
 ### Binary Search
 
