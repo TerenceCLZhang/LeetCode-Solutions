@@ -10,14 +10,21 @@
  */
 class Solution {
 
-  public ListNode middleNode(ListNode head) {
-    ListNode fast = head, slow = head;
+  public ListNode removeNthFromEnd(ListNode head, int n) {
+    ListNode dummy = new ListNode(0, head);
+    ListNode fast = dummy, slow = dummy;
+
+    for (int i = 0; i < n; i++) {
+      fast = fast.next;
+    }
 
     while (fast != null && fast.next != null) {
-      fast = fast.next.next;
+      fast = fast.next;
       slow = slow.next;
     }
 
-    return slow;
+    slow.next = slow.next.next;
+
+    return dummy.next;
   }
 }

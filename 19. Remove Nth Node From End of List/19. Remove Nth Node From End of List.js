@@ -7,16 +7,24 @@
  */
 /**
  * @param {ListNode} head
+ * @param {number} n
  * @return {ListNode}
  */
-var middleNode = function (head) {
-  let fast = head,
-    slow = head;
+var removeNthFromEnd = function (head, n) {
+  dummy = new ListNode(0, head);
+  let fast = dummy,
+    slow = dummy;
+
+  for (let i = 0; i < n; i++) {
+    fast = fast.next;
+  }
 
   while (fast && fast.next) {
-    fast = fast.next.next;
+    fast = fast.next;
     slow = slow.next;
   }
 
-  return slow;
+  slow.next = slow.next.next;
+
+  return dummy.next;
 };

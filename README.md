@@ -99,8 +99,14 @@ https://algomap.io/list/
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                                                   | [Link](/21.%20Merge%20Two%20Sorted%20Lists/)                                 | $$O(n + m)$$ | $$O(1)$$ |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                            | [Link](/141.%20Linked%20List%20Cycle/)                                       | $$O(n)$$     | $$O(1)$$ |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)                                            | [Link](/876.%20Middle%20of%20the%20Linked%20List/)                           | $$O(n)$$     | $$O(1)$$ |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                               | [Link](/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/)                 | $$O(n)$$     | $$O(1)$$ |
+| [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)                                    | [Link](/138.%20Copy%20List%20with%20Random%20Pointer/)                       | $$O(n)$$     | $$O(n)$$ |
 
 ### Binary Search
+
+| Problem                                                                        | Solutions                        | Time          | Space    |
+| ------------------------------------------------------------------------------ | -------------------------------- | ------------- | -------- |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/description/) | [Link](/704.%20Binary%20Search/) | $$O(\log n)$$ | $$O(1)$$ |
 
 ### Sliding Window
 
