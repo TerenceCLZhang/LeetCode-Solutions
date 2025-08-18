@@ -104,9 +104,14 @@ https://algomap.io/list/
 
 ### Binary Search
 
-| Problem                                                                        | Solutions                        | Time          | Space    |
-| ------------------------------------------------------------------------------ | -------------------------------- | ------------- | -------- |
-| [704. Binary Search](https://leetcode.com/problems/binary-search/description/) | [Link](/704.%20Binary%20Search/) | $$O(\log n)$$ | $$O(1)$$ |
+| Problem                                                                                                          | Solutions                                                       | Time                    | Space    |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------- | -------- |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                   | [Link](/704.%20Binary%20Search/)                                | $$O(\log n)$$           | $$O(1)$$ |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                  | [Link](/35.%20Search%20Insert%20Position/)                      | $$O(\log n)$$           | $$O(1)$$ |
+| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                           | [Link](/278.%20First%20Bad%20Version/)                          | $$O(\log n)$$           | $$O(1)$$ |
+| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                     | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log n)$$           | $$O(1)$$ |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                          | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log (m \cdot n))$$ | $$O(1)$$ |
+| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | $$O(\log n)$$           | $$O(1)$$ |
 
 ### Sliding Window
 
