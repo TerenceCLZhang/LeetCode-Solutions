@@ -112,6 +112,8 @@ https://algomap.io/list/
 | [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                     | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log n)$$           | $$O(1)$$ |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                          | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log (m \cdot n))$$ | $$O(1)$$ |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | $$O(\log n)$$           | $$O(1)$$ |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  | [Link](/33.%20Search%20in%20Rotated%20Sorted%20Array/)          | $$O(\log n)$$           | $$O(1)$$ |
+| [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)                       | [Link](/875.%20Koko%20Eating%20Bananas/)                        | $$O(n \cdot \log m)$$   | $$O(1)$$ |
 
 ### Sliding Window
 
