@@ -46,25 +46,25 @@ https://algomap.io/list/
 | [75. Sort Colors (Dutch National Flag Problem)](https://leetcode.com/problems/sort-colors/description/)                         | [Link](/75.%20Sort%20Colors/)                                     | $$O(n)$$              | $$O(1)$$ |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                    | [Link](/238.%20Product%20of%20Array%20Except%20Self/)             | $$O(n)$$              | $$O(1)$$ |
 | [274. H-Index](https://leetcode.com/problems/h-index/description/)                                                              | [Link](/274.%20H-Index/)                                          | $$O(n)$$              | $$O(n)$$ |
-| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                               | [Link](/56.%20Merge%20Intervals/)                                 | $$O(n \cdot \log n)$$ | $$O(n)$$ |
-| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                   | [Link](/54.%20Spiral%20Matrix/)                                   | $$O(m \cdot n)$$      | $$O(1)$$ |
-| [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)                                            | [Link](/6.%20Zigzag%20Conversion/)                                | $$O(n)$$              | $$O(n)$$ |
-| [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                                     | [Link](/48.%20Rotate%20Image/)                                    | $$O(n^2)$$            | $$O(1)$$ |
+| [**56. Merge Intervals**](https://leetcode.com/problems/merge-intervals/description/)                                           | [Link](/56.%20Merge%20Intervals/)                                 | $$O(n \cdot \log n)$$ | $$O(n)$$ |
+| [**54. Spiral Matrix**](https://leetcode.com/problems/spiral-matrix/description/)                                               | [Link](/54.%20Spiral%20Matrix/)                                   | $$O(m \cdot n)$$      | $$O(1)$$ |
+| [**6. Zigzag Conversion**](https://leetcode.com/problems/zigzag-conversion/description/)                                        | [Link](/6.%20Zigzag%20Conversion/)                                | $$O(n)$$              | $$O(n)$$ |
+| [**48. Rotate Image**](https://leetcode.com/problems/rotate-image/description/)                                                 | [Link](/48.%20Rotate%20Image/)                                    | $$O(n^2)$$            | $$O(1)$$ |
 
 ### Hashmaps & Sets
 
-| Problem                                                                                                      | Solutions                                          | Time             | Space            |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------- | ---------------- |
-| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                       | [Link](/771.%20Jewels%20and%20Stones/)             | $$O(n)$$         | $$O(n)$$         |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                     | [Link](/217.%20Contains%20Duplicate/)              | $$O(n)$$         | $$O(n)$$         |
-| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                   | [Link](/383.%20Ransom%20Note/)                     | $$O(n + m)$$     | $$O(m)$$         |
-| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                               | [Link](/242.%20Valid%20Anagram/)                   | $$O(n)$$         | $$O(1)$$         |
-| [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)    | [Link](/1189.%20Maximum%20Number%20of%20Balloons/) | $$O(n)$$         | $$O(1)$$         |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                             | [Link](/1.%20Two%20Sum/)                           | $$O(n)$$         | $$O(n)$$         |
-| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                  | [Link](/36.%20Valid%20Sudoku/)                     | $$O(1)$$         | $$O(1)$$         |
-| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                              | [Link](/49.%20Group%20Anagrams/)                   | $$O(n \cdot m)$$ | $$O(n \cdot m)$$ |
-| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                         | [Link](/169.%20Majority%20Element/)                | $$O(n)$$         | $$O(1)$$         |
-| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Link](/128.%20Longest%20Consecutive%20Sequence/)  | $$O(n)$$         | $$O(n)$$         |
+| Problem                                                                                                          | Solutions                                          | Time             | Space            |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------- | ---------------- |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)                           | [Link](/771.%20Jewels%20and%20Stones/)             | $$O(n)$$         | $$O(n)$$         |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                         | [Link](/217.%20Contains%20Duplicate/)              | $$O(n)$$         | $$O(n)$$         |
+| [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                       | [Link](/383.%20Ransom%20Note/)                     | $$O(n + m)$$     | $$O(m)$$         |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                   | [Link](/242.%20Valid%20Anagram/)                   | $$O(n)$$         | $$O(1)$$         |
+| [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)        | [Link](/1189.%20Maximum%20Number%20of%20Balloons/) | $$O(n)$$         | $$O(1)$$         |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                 | [Link](/1.%20Two%20Sum/)                           | $$O(n)$$         | $$O(n)$$         |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                      | [Link](/36.%20Valid%20Sudoku/)                     | $$O(1)$$         | $$O(1)$$         |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)                                  | [Link](/49.%20Group%20Anagrams/)                   | $$O(n \cdot m)$$ | $$O(n \cdot m)$$ |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/)                             | [Link](/169.%20Majority%20Element/)                | $$O(n)$$         | $$O(1)$$         |
+| [**128. Longest Consecutive Sequence**](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Link](/128.%20Longest%20Consecutive%20Sequence/)  | $$O(n)$$         | $$O(n)$$         |
 
 ### 2 Pointers
 
@@ -104,18 +104,25 @@ https://algomap.io/list/
 
 ### Binary Search
 
-| Problem                                                                                                          | Solutions                                                       | Time                    | Space    |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------- | -------- |
-| [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                   | [Link](/704.%20Binary%20Search/)                                | $$O(\log n)$$           | $$O(1)$$ |
-| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                  | [Link](/35.%20Search%20Insert%20Position/)                      | $$O(\log n)$$           | $$O(1)$$ |
-| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                           | [Link](/278.%20First%20Bad%20Version/)                          | $$O(\log n)$$           | $$O(1)$$ |
-| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                     | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log n)$$           | $$O(1)$$ |
-| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                          | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log (m \cdot n))$$ | $$O(1)$$ |
-| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | $$O(\log n)$$           | $$O(1)$$ |
-| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  | [Link](/33.%20Search%20in%20Rotated%20Sorted%20Array/)          | $$O(\log n)$$           | $$O(1)$$ |
-| [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)                       | [Link](/875.%20Koko%20Eating%20Bananas/)                        | $$O(n \cdot \log m)$$   | $$O(1)$$ |
+| Problem                                                                                                              | Solutions                                                       | Time                    | Space    |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------- | -------- |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/description/)                                       | [Link](/704.%20Binary%20Search/)                                | $$O(\log n)$$           | $$O(1)$$ |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                      | [Link](/35.%20Search%20Insert%20Position/)                      | $$O(\log n)$$           | $$O(1)$$ |
+| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                               | [Link](/278.%20First%20Bad%20Version/)                          | $$O(\log n)$$           | $$O(1)$$ |
+| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)                         | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log n)$$           | $$O(1)$$ |
+| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)                              | [Link](/367.%20Valid%20Perfect%20Square/)                       | $$O(\log (m \cdot n))$$ | $$O(1)$$ |
+| [**153. Find Minimum in Rotated Sorted Array**](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Link](/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | $$O(\log n)$$           | $$O(1)$$ |
+| [**33. Search in Rotated Sorted Array**](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  | [Link](/33.%20Search%20in%20Rotated%20Sorted%20Array/)          | $$O(\log n)$$           | $$O(1)$$ |
+| [**875. Koko Eating Bananas**](https://leetcode.com/problems/koko-eating-bananas/description/)                       | [Link](/875.%20Koko%20Eating%20Bananas/)                        | $$O(n \cdot \log m)$$   | $$O(1)$$ |
 
 ### Sliding Window
+
+| Problem                                                                                                                            | Solutions                                                             | Time     | Space    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | -------- |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                           | [Link](/643.%20Maximum%20Average%20Subarray%20I/)                     | $$O(n)$$ | $$O(1)$$ |
+| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                              | [Link](/1004.%20Max%20Consecutive%20Ones%20III/)                      | $$O(n)$$ | $$O(1)$$ |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](/3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | $$O(n)$$ | $$O(1)$$ |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Link](/424.%20Longest%20Repeating%20Character%20Replacement/)        | $$O(n)$$ | $$O(n)$$ |
 
 ### Trees
 
