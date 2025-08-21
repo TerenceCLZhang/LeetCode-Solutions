@@ -117,14 +117,20 @@ https://algomap.io/list/
 
 ### Sliding Window
 
-| Problem                                                                                                                            | Solutions                                                             | Time     | Space    |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | -------- |
-| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                           | [Link](/643.%20Maximum%20Average%20Subarray%20I/)                     | $$O(n)$$ | $$O(1)$$ |
-| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                              | [Link](/1004.%20Max%20Consecutive%20Ones%20III/)                      | $$O(n)$$ | $$O(1)$$ |
-| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](/3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | $$O(n)$$ | $$O(1)$$ |
-| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Link](/424.%20Longest%20Repeating%20Character%20Replacement/)        | $$O(n)$$ | $$O(n)$$ |
+| Problem                                                                                                                                | Solutions                                                             | Time     | Space    |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------- | -------- |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                               | [Link](/643.%20Maximum%20Average%20Subarray%20I/)                     | $$O(n)$$ | $$O(1)$$ |
+| [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)                                  | [Link](/1004.%20Max%20Consecutive%20Ones%20III/)                      | $$O(n)$$ | $$O(1)$$ |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [Link](/3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | $$O(n)$$ | $$O(1)$$ |
+| [**424. Longest Repeating Character Replacement**](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Link](/424.%20Longest%20Repeating%20Character%20Replacement/)        | $$O(n)$$ | $$O(1)$$ |
+| [**209. Minimum Size Subarray Sum**](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                             | [Link](/209.%20Minimum%20Size%20Subarray%20Sum/)                      | $$O(n)$$ | $$O(1)$$ |
+| [**567. Permutation in String**](https://leetcode.com/problems/permutation-in-string/description/)                                     | [Link](/567.%20Permutation%20in%20String/)                            | $$O(n)$$ | $$O(1)$$ |
 
 ### Trees
+
+| Problem                                                                      | Solutions                               | Time     | Space    |
+| ---------------------------------------------------------------------------- | --------------------------------------- | -------- | -------- |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Link](/226.%20Invert%20Binary%20Tree/) | $$O(n)$$ | $$O(1)$$ |
 
 ### Heaps
 
