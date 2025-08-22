@@ -76,8 +76,8 @@ https://algomap.io/list/
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                   | [Link](/125.%20Valid%20Palindrome/)                               | $$O(n)$$   | $$O(1)$$ |
 | [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                            | [Link](/15.%203Sum/)                                              | $$O(n^2)$$ | $$O(1)$$ |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                  | [Link](/11.%20Container%20With%20Most%20Water/)                   | $$O(n)$$   | $$O(1)$$ |
-| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)                                            | [Link](/16.%203Sum%20Closest/)                                    | $$O(n^2)$$ | $$O(1)$$ |
-| [18. 4Sum](https://leetcode.com/problems/4sum/description/)                                                            | [Link](/18.%204Sum/)                                              | $$O(n^3)$$ | $$O(1)$$ |
+| [**16. 3Sum Closest**](https://leetcode.com/problems/3sum-closest/description/)                                        | [Link](/16.%203Sum%20Closest/)                                    | $$O(n^2)$$ | $$O(1)$$ |
+| [**18. 4Sum**](https://leetcode.com/problems/4sum/description/)                                                        | [Link](/18.%204Sum/)                                              | $$O(n^3)$$ | $$O(1)$$ |
 
 ### Stacks
 
@@ -124,13 +124,16 @@ https://algomap.io/list/
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)     | [Link](/3.%20Longest%20Substring%20Without%20Repeating%20Characters/) | $$O(n)$$ | $$O(1)$$ |
 | [**424. Longest Repeating Character Replacement**](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Link](/424.%20Longest%20Repeating%20Character%20Replacement/)        | $$O(n)$$ | $$O(1)$$ |
 | [**209. Minimum Size Subarray Sum**](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                             | [Link](/209.%20Minimum%20Size%20Subarray%20Sum/)                      | $$O(n)$$ | $$O(1)$$ |
-| [**567. Permutation in String**](https://leetcode.com/problems/permutation-in-string/description/)                                     | [Link](/567.%20Permutation%20in%20String/)                            | $$O(n)$$ | $$O(1)$$ |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                         | [Link](/567.%20Permutation%20in%20String/)                            | $$O(n)$$ | $$O(1)$$ |
 
 ### Trees
 
-| Problem                                                                      | Solutions                               | Time     | Space    |
-| ---------------------------------------------------------------------------- | --------------------------------------- | -------- | -------- |
-| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Link](/226.%20Invert%20Binary%20Tree/) | $$O(n)$$ | $$O(1)$$ |
+| Problem                                                                                                      | Solutions                                             | Time     | Space    |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | -------- | -------- |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [Link](/226.%20Invert%20Binary%20Tree/)               | $$O(n)$$ | $$O(h)$$ |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Link](/104.%20Maximum%20Depth%20of%20Binary%20Tree/) | $$O(n)$$ | $$O(h)$$ |
+| [**110. Balanced Binary Tree**](hhttps://leetcode.com/problems/balanced-binary-tree/description/)            | [Link](/110.%20Balanced%20Binary%20Tree/)             | $$O(n)$$ | $$O(h)$$ |
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)           | [Link](/543.%20Diameter%20of%20Binary%20Tree//)       | $$O(n)$$ | $$O(h)$$ |
 
 ### Heaps
 
