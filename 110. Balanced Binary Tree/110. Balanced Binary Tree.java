@@ -19,7 +19,7 @@ class Solution {
     return dfs(root) != -1;
   }
 
-  static int dfs(TreeNode node) {
+  private int dfs(TreeNode node) {
     if (node == null) {
       return 0;
     }

@@ -22,7 +22,7 @@ class Solution {
     return head;
   }
 
-  static int gcd(int a, int b) {
+  private int gcd(int a, int b) {
     while (b > 0) {
       int temp = a;
       a = b;

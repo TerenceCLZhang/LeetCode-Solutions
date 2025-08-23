@@ -15,22 +15,17 @@
  */
 class Solution {
 
-  int diameter;
-
-  public int diameterOfBinaryTree(TreeNode root) {
-    dfs(root);
-    return diameter;
-  }
-
-  private int dfs(TreeNode node) {
-    if (node == null) {
-      return 0;
+  public boolean isSameTree(TreeNode p, TreeNode q) {
+    if (p == null && q == null) {
+      return true;
     }
 
-    int left = dfs(node.left);
-    int right = dfs(node.right);
+    if (
+      (p != null && q == null) || (p == null && q != null) || p.val != q.val
+    ) {
+      return false;
+    }
 
-    diameter = Math.max(diameter, left + right);
-    return 1 + Math.max(left, right);
+    return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
   }
 }
