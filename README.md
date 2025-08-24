@@ -128,15 +128,18 @@ https://algomap.io/list/
 
 ### Trees
 
-| Problem                                                                                                      | Solutions                                             | Time     | Space    |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | -------- | -------- |
-| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [Link](/226.%20Invert%20Binary%20Tree/)               | $$O(n)$$ | $$O(h)$$ |
-| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Link](/104.%20Maximum%20Depth%20of%20Binary%20Tree/) | $$O(n)$$ | $$O(h)$$ |
-| [**110. Balanced Binary Tree**](hhttps://leetcode.com/problems/balanced-binary-tree/description/)            | [Link](/110.%20Balanced%20Binary%20Tree/)             | $$O(n)$$ | $$O(h)$$ |
-| [**543. Diameter of Binary Tree**](https://leetcode.com/problems/diameter-of-binary-tree/description/)       | [Link](/543.%20Diameter%20of%20Binary%20Tree//)       | $$O(n)$$ | $$O(h)$$ |
-| [100. Same Tree](https://leetcode.com/problems/same-tree/description/)                                       | [Link](/100.%20Same%20Tree/)                          | $$O(n)$$ | $$O(h)$$ |
-| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                             | [Link](/101.%20Symmetric%20Tree/)                     | $$O(n)$$ | $$O(h)$$ |
-| [112. Path Sum](https://leetcode.com/problems/path-sum/description/)                                         | [Link](/112.%20Path%20Sum/)                           | $$O(n)$$ | $$O(h)$$ |
+| Problem                                                                                                                      | Solutions                                                   | Time             | Space    |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------- | -------- |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                     | [Link](/226.%20Invert%20Binary%20Tree/)                     | $$O(n)$$         | $$O(h)$$ |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                 | [Link](/104.%20Maximum%20Depth%20of%20Binary%20Tree/)       | $$O(n)$$         | $$O(h)$$ |
+| [**110. Balanced Binary Tree**](hhttps://leetcode.com/problems/balanced-binary-tree/description/)                            | [Link](/110.%20Balanced%20Binary%20Tree/)                   | $$O(n)$$         | $$O(h)$$ |
+| [**543. Diameter of Binary Tree**](https://leetcode.com/problems/diameter-of-binary-tree/description/)                       | [Link](/543.%20Diameter%20of%20Binary%20Tree//)             | $$O(n)$$         | $$O(h)$$ |
+| [100. Same Tree](https://leetcode.com/problems/same-tree/description/)                                                       | [Link](/100.%20Same%20Tree/)                                | $$O(n)$$         | $$O(h)$$ |
+| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                             | [Link](/101.%20Symmetric%20Tree/)                           | $$O(n)$$         | $$O(h)$$ |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/description/)                                                         | [Link](/112.%20Path%20Sum/)                                 | $$O(n)$$         | $$O(h)$$ |
+| [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)                           | [Link](/572.%20Subtree%20of%20Another%20Tree/)              | $$O(n \cdot m)$$ | $$O(h)$$ |
+| [102. Binary Tree Level Order Traversal (BFS)](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Link](/102.%20Binary%20Tree%20Level%20Order%20Traversal/)  | $$O(n)$$         | $$O(n)$$ |
+| [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)         | [Link](/637.%20Average%20of%20Levels%20in%20Binary%20Tree/) | $$O(n)$$         | $$O(w)$$ |
 
 ### Heaps
 
