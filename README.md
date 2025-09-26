@@ -148,6 +148,15 @@ https://algomap.io/list/
 
 ### Heaps
 
+_Note: No JavaScript_
+
+| Problem                                                                                                  | Solutions                                                  | Time            | Space    |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------- | -------- |
+| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                              | [Link](/1046.%20Last%20Stone%20Weight/)                    | $$O(n \log n)$$ | $$O(n)$$ |
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   | [Link](/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | $$O(n \log k)$$ | $$O(k)$$ |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)       | [Link](/347.%20Top%20K%20Frequent%20Elements/)             | $$O(n \log k)$$ | $$O(k)$$ |
+| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Link](/973.%20K%20Closest%20Points%20to%20Origin/)        | $$O(n \log k)$$ | $$O(k)$$ |
+
 ### Recursive Backtracking
 
 ### Graphs
