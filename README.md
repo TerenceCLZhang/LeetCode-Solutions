@@ -150,14 +150,20 @@ https://algomap.io/list/
 
 _Note: No JavaScript_
 
-| Problem                                                                                                  | Solutions                                                  | Time            | Space    |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------- | -------- |
-| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                              | [Link](/1046.%20Last%20Stone%20Weight/)                    | $$O(n \log n)$$ | $$O(n)$$ |
-| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   | [Link](/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | $$O(n \log k)$$ | $$O(k)$$ |
-| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)       | [Link](/347.%20Top%20K%20Frequent%20Elements/)             | $$O(n \log k)$$ | $$O(k)$$ |
-| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Link](/973.%20K%20Closest%20Points%20to%20Origin/)        | $$O(n \log k)$$ | $$O(k)$$ |
+| Problem                                                                                                  | Solutions                                                  | Time                  | Space    |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------- | -------- |
+| [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                              | [Link](/1046.%20Last%20Stone%20Weight/)                    | $$O(n \cdot \log n)$$ | $$O(n)$$ |
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   | [Link](/215.%20Kth%20Largest%20Element%20in%20an%20Array/) | $$O(n \cdot \log k)$$ | $$O(k)$$ |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)       | [Link](/347.%20Top%20K%20Frequent%20Elements/)             | $$O(n \cdot \log k)$$ | $$O(k)$$ |
+| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [Link](/973.%20K%20Closest%20Points%20to%20Origin/)        | $$O(n \cdot \log k)$$ | $$O(k)$$ |
 
 ### Recursive Backtracking
+
+| Problem                                                                     | Solutions                    | Time                   | Space                  |
+| --------------------------------------------------------------------------- | ---------------------------- | ---------------------- | ---------------------- |
+| [78. Subsets](https://leetcode.com/problems/subsets/description/)           | [Link](/78.%20Subsets/)      | $$O(2^n \cdot n)$$     | $$O(2^n \cdot n)$$     |
+| [46. Permutations](https://leetcode.com/problems/permutations/description/) | [Link](/46.%20Permutations/) | $$O(n \cdot n!)$$      | $$O(n  \cdot n!)$$     |
+| [77. Combinations](https://leetcode.com/problems/combinations/description/) | [Link](/77.%20Combinations/) | $$O(C(n, k) \cdot k)$$ | $$O(C(n, k) \cdot k)$$ |
 
 ### Graphs
 
