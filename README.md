@@ -166,7 +166,9 @@ _Note: No JavaScript_
 | [77. Combinations](https://leetcode.com/problems/combinations/description/)                                                   | [Link](/77.%20Combinations/)                                    | $$O(C(n, k) \cdot k)$$     | $$O(C(n, k) \cdot k)$$ |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                             | [Link](/39.%20Combination%20Sum/)                               | $$O(2^{\frac{t}{m} + 1})$$ | $$O(\frac{t}{m})$$     |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Link](/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | $$O(n \cdot 4^n)$$         | $$O(n)$$               |
-| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)                                   | [Link](/22.%20Generate%20Parentheses/)                          | $$O(2^n)$$                 | $$O(n)$$               |
+| [**22. Generate Parentheses**](https://leetcode.com/problems/generate-parentheses/description/)                               | [Link](/22.%20Generate%20Parentheses/)                          | $$O(2^n)$$                 | $$O(n)$$               |
+| [**45. Jump Game II**](https://leetcode.com/problems/jump-game-ii/description/)                                               | [Link](/45.%20Jump%20Game%20II/)                                | $$O(n)$$                   | $$O(1)$$               |
+| [**79. Word Search**](https://leetcode.com/problems/word-search/)                                                             | [Link](/79.%20Word%20Search/)                                   | $$O((m \cdot n)^2)$$       | $$O(w)$$               |
 
 ### Graphs
 
