@@ -168,9 +168,14 @@ _Note: No JavaScript_
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Link](/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/) | $$O(n \cdot 4^n)$$         | $$O(n)$$               |
 | [**22. Generate Parentheses**](https://leetcode.com/problems/generate-parentheses/description/)                               | [Link](/22.%20Generate%20Parentheses/)                          | $$O(2^n)$$                 | $$O(n)$$               |
 | [**45. Jump Game II**](https://leetcode.com/problems/jump-game-ii/description/)                                               | [Link](/45.%20Jump%20Game%20II/)                                | $$O(n)$$                   | $$O(1)$$               |
-| [**79. Word Search**](https://leetcode.com/problems/word-search/)                                                             | [Link](/79.%20Word%20Search/)                                   | $$O((m \cdot n)^2)$$       | $$O(w)$$               |
+| [**79. Word Search**](https://leetcode.com/problems/word-search/)                                                             | [Link](/79.%20Word%20Search/)                                   | $$O(m \cdot n \cdot 3^w)$$ | $$O(w)$$               |
 
 ### Graphs
+
+| Problem                                                                                           | Solutions                                                | Time            | Space           |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------- | --------------- |
+| [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Link](/1971.%20Find%20if%20Path%20Exists%20in%20Graph/) | $$O(V + E)$$    | $$O(V + E)$$    |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)            | [Link](/200.%20Number%20of%20Islands/)                   | $$O(m\cdot n)$$ | $$O(m\cdot n)$$ |
 
 ### Dynamic Programming
 
