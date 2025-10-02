@@ -172,10 +172,12 @@ _Note: No JavaScript_
 
 ### Graphs
 
-| Problem                                                                                           | Solutions                                                | Time            | Space           |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------- | --------------- |
-| [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Link](/1971.%20Find%20if%20Path%20Exists%20in%20Graph/) | $$O(V + E)$$    | $$O(V + E)$$    |
-| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)            | [Link](/200.%20Number%20of%20Islands/)                   | $$O(m\cdot n)$$ | $$O(m\cdot n)$$ |
+| Problem                                                                                                       | Solutions                                                | Time            | Space           |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------- | --------------- |
+| [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)             | [Link](/1971.%20Find%20if%20Path%20Exists%20in%20Graph/) | $$O(V + E)$$    | $$O(V + E)$$    |
+| [**200. Number of Islands**](https://leetcode.com/problems/number-of-islands/description/)                    | [Link](/200.%20Number%20of%20Islands/)                   | $$O(m\cdot n)$$ | $$O(m\cdot n)$$ |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)                      | [Link](/695.%20Max%20Area%20of%20Island/)                | $$O(m\cdot n)$$ | $$O(m\cdot n)$$ |
+| [207. Course Schedule (Detect Cycles in a Graph)](https://leetcode.com/problems/course-schedule/description/) | [Link](/207.%20Course%20Schedule/)                       | $$O(V + E)$$    | $$O(V + E)$$    |
 
 ### Dynamic Programming
 
