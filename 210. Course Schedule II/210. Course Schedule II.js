@@ -1,9 +1,9 @@
 /**
  * @param {number} numCourses
  * @param {number[][]} prerequisites
- * @return {boolean}
+ * @return {number[]}
  */
-var canFinish = function (numCourses, prerequisites) {
+var findOrder = function (numCourses, prerequisites) {
   const adjList = new Map();
   for (const [course, prereq] of prerequisites) {
     if (!adjList.has(course)) {
@@ -12,35 +12,41 @@ var canFinish = function (numCourses, prerequisites) {
     adjList.get(course).push(prereq);
   }
 
+  const ans = [];
+
   const visiting = new Set();
+  const visited = new Set();
 
   const dfs = (currentCourse) => {
     if (visiting.has(currentCourse)) {
       return false;
     }
 
-    if (!adjList.has(currentCourse)) {
+    if (visited.has(currentCourse)) {
       return true;
     }
 
     visiting.add(currentCourse);
 
-    for (const course of adjList.get(currentCourse)) {
-      if (!dfs(course)) {
-        return false;
+    if (adjList.has(currentCourse)) {
+      for (const course of adjList.get(currentCourse)) {
+        if (!dfs(course)) {
+          return false;
+        }
       }
     }
 
     visiting.delete(currentCourse);
-    adjList.set(currentCourse, []);
+    visited.add(currentCourse);
+    ans.push(currentCourse);
     return true;
   };
 
   for (let course = 0; course < numCourses; course++) {
     if (!dfs(course)) {
-      return false;
+      return [];
     }
   }
 
-  return true;
+  return ans;
 };
