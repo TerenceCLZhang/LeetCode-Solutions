@@ -172,17 +172,18 @@ _Note: No JavaScript_
 
 ### Graphs
 
-| Problem                                                                                                                                | Solutions                                                  | Time              | Space            |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------- | ---------------- |
-| [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                      | [Link](/1971.%20Find%20if%20Path%20Exists%20in%20Graph/)   | $$O(V + E)$$      | $$O(V + E)$$     |
-| [**200. Number of Islands**](https://leetcode.com/problems/number-of-islands/description/)                                             | [Link](/200.%20Number%20of%20Islands/)                     | $$O(m\cdot n)$$   | $$O(m\cdot n)$$  |
-| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)                                               | [Link](/695.%20Max%20Area%20of%20Island/)                  | $$O(m\cdot n)$$   | $$O(m\cdot n)$$  |
-| [**207. Course Schedule (Detect Cycles in a Graph)**](https://leetcode.com/problems/course-schedule/description/)                      | [Link](/207.%20Course%20Schedule/)                         | $$O(V + E)$$      | $$O(V + E)$$     |
-| [210. Course Schedule II (Topological Sort)](https://leetcode.com/problems/course-schedule-ii/description/)                            | [Link](/210.%20Course%20Schedule%20II/)                    | $$O(V + E)$$      | $$O(V + E)$$     |
-| [**417. Pacific Atlantic Water Flow**](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)                         | [Link](/417.%20Pacific%20Atlantic%20Water%20Flow/)         | $$O(m \cdot n)$$  | $$O(m \cdot n)$$ |
-| [**133. Clone Graph**](https://leetcode.com/problems/clone-graph/description/)                                                         | [Link](/133.%20Clone%20Graph/)                             | $$O(n)$$          | $$O(n)$$         |
-| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                                                     | [Link](/994.%20Rotting%20Oranges/)                         | $$O(m \cdot n)$$  | $$O(m \cdot n)$$ |
-| [1584. Min Cost to Connect All Points (Prim's Algorithm to Create MST)](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Link](/1584.%20Min%20Cost%20to%20Connect%20All%20Points/) | $$O(n^2 \log n)$$ | $$O(n^2)$$       |
+| Problem                                                                                                                                    | Solutions                                                  | Time                  | Space            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | --------------------- | ---------------- |
+| [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)                                          | [Link](/1971.%20Find%20if%20Path%20Exists%20in%20Graph/)   | $$O(V + E)$$          | $$O(V + E)$$     |
+| [**200. Number of Islands**](https://leetcode.com/problems/number-of-islands/description/)                                                 | [Link](/200.%20Number%20of%20Islands/)                     | $$O(m\cdot n)$$       | $$O(m\cdot n)$$  |
+| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)                                                   | [Link](/695.%20Max%20Area%20of%20Island/)                  | $$O(m\cdot n)$$       | $$O(m\cdot n)$$  |
+| [**207. Course Schedule (Detect Cycles in a Graph)**](https://leetcode.com/problems/course-schedule/description/)                          | [Link](/207.%20Course%20Schedule/)                         | $$O(V + E)$$          | $$O(V + E)$$     |
+| [210. Course Schedule II (Topological Sort)](https://leetcode.com/problems/course-schedule-ii/description/)                                | [Link](/210.%20Course%20Schedule%20II/)                    | $$O(V + E)$$          | $$O(V + E)$$     |
+| [**417. Pacific Atlantic Water Flow**](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)                             | [Link](/417.%20Pacific%20Atlantic%20Water%20Flow/)         | $$O(m \cdot n)$$      | $$O(m \cdot n)$$ |
+| [**133. Clone Graph**](https://leetcode.com/problems/clone-graph/description/)                                                             | [Link](/133.%20Clone%20Graph/)                             | $$O(n)$$              | $$O(n)$$         |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                                                         | [Link](/994.%20Rotting%20Oranges/)                         | $$O(m \cdot n)$$      | $$O(m \cdot n)$$ |
+| [**1584. Min Cost to Connect All Points (Prim's Algorithm to Create MST)**](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Link](/1584.%20Min%20Cost%20to%20Connect%20All%20Points/) | $$O(n^2 \log n)$$     | $$O(n^2)$$       |
+| [**743. Network Delay Time (Dijkstra's Algorithm)**](https://leetcode.com/problems/min-cost-to-connect-all-points/)                        | [Link](/743.%20Network%20Delay%20Time/)                    | $$O((V + E) \log V)$$ | $$O(V + E)$$     |
 
 ### Dynamic Programming
 
