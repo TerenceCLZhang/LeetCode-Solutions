@@ -148,8 +148,6 @@ https://algomap.io/list/
 
 ### Heaps
 
-_Note: No JavaScript_
-
 | Problem                                                                                                  | Solutions                                                  | Time                  | Space    |
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------- | -------- |
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                              | [Link](/1046.%20Last%20Stone%20Weight/)                    | $$O(n \cdot \log n)$$ | $$O(n)$$ |
@@ -186,6 +184,10 @@ _Note: No JavaScript_
 | [**743. Network Delay Time (Dijkstra's Algorithm)**](https://leetcode.com/problems/min-cost-to-connect-all-points/)                        | [Link](/743.%20Network%20Delay%20Time/)                    | $$O((V + E) \log V)$$ | $$O(V + E)$$     |
 
 ### Dynamic Programming
+
+| Problem                                                                              | Solutions                           | Time     | Space    |
+| ------------------------------------------------------------------------------------ | ----------------------------------- | -------- | -------- |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Link](/509.%20Fibonacci%20Number/) | $$O(n)$$ | $$O(1)$$ |
 
 ### Bit Manipulation
 
