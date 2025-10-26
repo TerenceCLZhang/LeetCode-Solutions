@@ -1,14 +1,14 @@
 class Solution {
 
-  public int fib(int n) {
-    if (n <= 1) {
+  public int climbStairs(int n) {
+    if (n <= 2) {
       return n;
     }
 
-    int num1 = 0;
-    int num2 = 1;
+    int num1 = 1;
+    int num2 = 2;
 
-    for (int i = 2; i < n + 1; i++) {
+    for (int i = 3; i < n + 1; i++) {
       int temp = num2;
       num2 = num1 + num2;
       num1 = temp;

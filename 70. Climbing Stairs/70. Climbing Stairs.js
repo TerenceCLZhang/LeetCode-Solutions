@@ -2,15 +2,15 @@
  * @param {number} n
  * @return {number}
  */
-var fib = function (n) {
-  if (n <= 1) {
+var climbStairs = function (n) {
+  if (n <= 2) {
     return n;
   }
 
-  let num1 = 0;
-  let num2 = 1;
+  let num1 = 1;
+  let num2 = 2;
 
-  for (let i = 2; i < n + 1; i++) {
+  for (let i = 3; i < n + 1; i++) {
     [num1, num2] = [num2, num1 + num2];
   }
 

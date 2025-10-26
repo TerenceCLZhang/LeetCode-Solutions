@@ -185,9 +185,11 @@ https://algomap.io/list/
 
 ### Dynamic Programming
 
-| Problem                                                                              | Solutions                           | Time     | Space    |
-| ------------------------------------------------------------------------------------ | ----------------------------------- | -------- | -------- |
-| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Link](/509.%20Fibonacci%20Number/) | $$O(n)$$ | $$O(1)$$ |
+| Problem                                                                                              | Solutions                                       | Time     | Space    |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------- | -------- |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                 | [Link](/509.%20Fibonacci%20Number/)             | $$O(n)$$ | $$O(1)$$ |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                    | [Link](/70.%20Climbing%20Stairs/)               | $$O(n)$$ | $$O(1)$$ |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Link](/746.%20Min%20Cost%20Climbing%20Stairs/) | $$O(n)$$ | $$O(1)$$ |
 
 ### Bit Manipulation
 
