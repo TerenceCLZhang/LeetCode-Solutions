@@ -185,15 +185,17 @@ https://algomap.io/list/
 
 ### Dynamic Programming
 
-| Problem                                                                                                      | Solutions                                       | Time             | Space            |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ---------------- | ---------------- |
-| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                         | [Link](/509.%20Fibonacci%20Number/)             | $$O(n)$$         | $$O(1)$$         |
-| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                            | [Link](/70.%20Climbing%20Stairs/)               | $$O(n)$$         | $$O(1)$$         |
-| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)         | [Link](/746.%20Min%20Cost%20Climbing%20Stairs/) | $$O(n)$$         | $$O(1)$$         |
-| [**198. House Robber**](https://leetcode.com/problems/house-robber/)                                         | [Link](/198.%20House%20Robber/)                 | $$O(n)$$         | $$O(1)$$         |
-| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                  | [Link](/62.%20Unique%20Paths/)                  | $$O(m \cdot n)$$ | $$O(m \cdot n)$$ |
-| [**53. Maximum Subarray (Kadane's Algorithm)**](https://leetcode.com/problems/maximum-subarray/description/) | [Link](/53.%20Maximum%20Subarray/)              | $$O(n)$$         | $$O(1)$$         |
-| [55. Jump Game](https://leetcode.com/problems/jump-game/)                                                    | [Link](/55.%20Jump%20Game/)                     | $$O(n)$$         | $$O(1)$$         |
+| Problem                                                                                                              | Solutions                                           | Time             | Space            |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------- | ---------------- |
+| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                 | [Link](/509.%20Fibonacci%20Number/)                 | $$O(n)$$         | $$O(1)$$         |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                    | [Link](/70.%20Climbing%20Stairs/)                   | $$O(n)$$         | $$O(1)$$         |
+| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                 | [Link](/746.%20Min%20Cost%20Climbing%20Stairs/)     | $$O(n)$$         | $$O(1)$$         |
+| [**198. House Robber**](https://leetcode.com/problems/house-robber/)                                                 | [Link](/198.%20House%20Robber/)                     | $$O(n)$$         | $$O(1)$$         |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)                                          | [Link](/62.%20Unique%20Paths/)                      | $$O(m \cdot n)$$ | $$O(m \cdot n)$$ |
+| [**53. Maximum Subarray (Kadane's Algorithm)**](https://leetcode.com/problems/maximum-subarray/description/)         | [Link](/53.%20Maximum%20Subarray/)                  | $$O(n)$$         | $$O(1)$$         |
+| [**55. Jump Game**](https://leetcode.com/problems/jump-game/)                                                        | [Link](/55.%20Jump%20Game/)                         | $$O(n)$$         | $$O(1)$$         |
+| [**322. Coin Change**](https://leetcode.com/problems/coin-change/description/)                                       | [Link](/322.%20Coin%20Change/)                      | $$O(n \cdot k)$$ | $$O(n)$$         |
+| [**300. Longest Increasing Subsequence**](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Link](/300.%20Longest%20Increasing%20Subsequence/) | $$O(n^2)$$       | $$O(n)$$         |
 
 ### Bit Manipulation
 
