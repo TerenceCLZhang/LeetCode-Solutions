@@ -35,7 +35,7 @@ class Solution:
         def find(node):
             res = node
             while res != parent[res]:
-                parent[res] = parent[parent[res]]  # path compression
+                parent[res] = parent[parent[res]]  # path halving
                 res = parent[res]
             return res
 
