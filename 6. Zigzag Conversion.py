@@ -5,9 +5,9 @@ class Solution:
 
         n = len(s)
         res = []
+        increment = 2 * (numRows - 1)
 
         for r in range(numRows):
-            increment = 2 * (numRows - 1)
             for i in range(r, n, increment):
                 res.append(s[i])
                 if 0 < r < numRows - 1 and i + increment - 2 * r < n:
