@@ -11,3 +11,4 @@ A repository of Python LeetCode solutions for commonly asked interview problems.
 - [x] LeetCode 75
 - [x] Algomap.io ([Greg Hogg](https://www.youtube.com/@GregHogg))
 - [x] [stoney codes](https://www.youtube.com/watch?v=lvO88XxNAzs)
+- [ ] SQL 50

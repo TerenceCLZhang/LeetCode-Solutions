@@ -3,7 +3,7 @@ class Solution:
         prices = [float("inf")] * n
         prices[src] = 0
 
-        for i in range(k + 1):
+        for _ in range(k + 1):
             tmp_prices = prices[:]
 
             for s, d, p in flights:
